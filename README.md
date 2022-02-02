@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emanamoura
-- 👀 I’m interested in Artificial Inteligence and Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Analisys with Python
 - 💞️ I’m looking to collaborate on anything that it is interesting!
 - 📫 How to reach me, you can email me! emanuel.moura@ccc.ufcg.edu.br
